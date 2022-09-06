@@ -29,3 +29,4 @@ Getting Started
 Updates
 ------------------
 9/5/22 - Completed Shared ViewModel & Navigation and the backstack.
+9/6/22 - Added some unit testing.
